@@ -1,0 +1,11 @@
+#obrazek1 {
+    float: left;
+}
+
+#obrazek2 {
+    float: right;
+}
+
+p:last-of-type {
+    clear: both;
+}
