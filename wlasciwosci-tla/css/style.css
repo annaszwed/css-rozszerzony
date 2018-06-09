@@ -1,0 +1,8 @@
+#tla {
+    background-image: url(http://stermark.com/images/06_archimedes_35438535.jpg);
+    background-color: green;
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: 30% 30%;
+    background-attachment: fixed;
+}
